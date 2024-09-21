@@ -23,6 +23,7 @@
   <a href="https://https://www.instagram.com/lipinsk1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "gustavolipinski12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-lipinski-15bb07217" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
+
+![Snake animation](https://github.com/Lipinski1201/Lipinski1201/blob/output/github-contribution-grid-snake.svg)
 
